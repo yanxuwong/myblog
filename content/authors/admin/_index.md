@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yanx
 
 # Username (this should match the folder name)
 authors:
@@ -21,13 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- BBBBBB
+- CCCCC
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in AAAAA
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
