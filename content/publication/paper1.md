@@ -11,5 +11,5 @@ view: 3
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Nature"
-  image: ""
+  image: "paper1.jpeg"
 ---
