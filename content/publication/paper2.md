@@ -1,4 +1,5 @@
 ---
+featured = true
 title: paper 2
 
 # View.
