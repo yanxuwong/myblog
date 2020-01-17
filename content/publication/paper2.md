@@ -1,6 +1,5 @@
 ---
 title: paper 2
-featured = true
 
 # View.
 #   1 = List
