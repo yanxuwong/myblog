@@ -1,10 +1,8 @@
 ---
 title: test for fe
 
-abstract = "daflkdafjkdlajkflda12555555555555555555555555555555555555555555555555555."
-abstract_short = ""
-authors = ["Yanx"]
-
+abstract: daflkdafjkdlajkflda12555555555555555555555555555555555555555555555555555.
+authors: Yanx
 
 # View.
 #   1 = List
