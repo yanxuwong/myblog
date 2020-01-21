@@ -1,4 +1,4 @@
-+++
+---
 title = "Analyzing Student Behavior in Online Programming Courses"
 date = 2018-05-25T00:00:00
 
@@ -76,3 +76,4 @@ slides = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+---
