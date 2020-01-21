@@ -3,7 +3,8 @@ title = "Analyzing Student Behavior in Online Programming Courses"
 date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
+authors = ["yanx"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -15,11 +16,11 @@ authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Source Themes Conference*"
-publication_short = "In *STC*"
+publication_short = ""
 
 # Abstract.
 #abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
@@ -35,7 +36,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [ ]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +44,7 @@ tags = [ ]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = [ ]
+projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -51,7 +52,7 @@ projects = [ ]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = " "
+slides = ""
 
 # Links (optional).
 #url_pdf = ""
@@ -69,10 +70,9 @@ slides = " "
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[{...}]
 
   # Caption (optional)
-  caption = " "
+ 
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
