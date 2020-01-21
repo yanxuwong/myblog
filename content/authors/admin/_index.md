@@ -1,24 +1,23 @@
 ---
 # Display name
-name: Yanx
+name: "Yanxu Wang"
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: ["Yanxu Wang"]
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: NIMS
+  url: "https://www.nims.go.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics...........
 
 interests:
 - BBBBBB
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wang.yanxu@nims.go.jp"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
