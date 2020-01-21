@@ -31,11 +31,11 @@ summary = "China-Europe International Symposium on Software Engineering Educatio
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = [ ]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +43,7 @@ tags = ["Source Themes"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = [ ]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -51,7 +51,7 @@ projects = ["internal-project"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example"
+slides = " "
 
 # Links (optional).
 #url_pdf = ""
@@ -69,15 +69,10 @@ slides = "example"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+[{...}]
+
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = " "
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
-
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}
