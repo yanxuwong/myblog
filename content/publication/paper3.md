@@ -1,33 +1,15 @@
-widget = "featured"  # Use the Featured widget* 
+---
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+This paper is about the number 2. The number 3 is left for future work.
 
-headless = true  *# This file represents a page section.*
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-# ... Put Your Section Options Here (title etc.) ...
-
-[content] 
-
-
-
-# Page type to display. E.g. post, talk, or publication.* 
-
-page_type = "publication"    
-
-# Choose how much pages you would like to display (0 = all pages)
-
-count = 0   
-
-# Page order. Descending (desc) or ascending (asc) date.
-order = "desc"   
-
-# Filter posts by a taxonomy term.
-[content.filters]
-tag = ""
-category = ""
-publication_type = ""   
-
-[design]
-# Toggle between the various page layout types.*  #   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation (publication only) 
-view = 3
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
